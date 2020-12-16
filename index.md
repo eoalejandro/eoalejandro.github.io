@@ -19,4 +19,4 @@ I can also make an ordered list:
 
 I am going to add a figure from the web:
 
-![Artist statement:](<iframe src='//gifs.com/embed/cantinflas-bailando-el-pipiripau-y4N25W' frameborder='0' scrolling='no' width='360px' height='270px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>)
+![Artist statement:](https://j.gifs.com/y4N25W.gif)
