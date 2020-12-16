@@ -20,3 +20,5 @@ I can also make an ordered list:
 I am going to add a figure from the web:
 
 ![Artist statement:](https://j.gifs.com/y4N25W.gif)
+
+I can also add in hyperlinks to places like [a tune that just entered the public domain](https://www.youtube.com/watch?v=ltUzHJJ3aAo)
